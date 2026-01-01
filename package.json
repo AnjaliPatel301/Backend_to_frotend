@@ -1,0 +1,12 @@
+{
+  "name": "fullstack_project",
+  "version": "1.0.0",
+  "description": "\"backend hu mai\"",
+  "license": "ISC",
+  "author": "Anjali",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
